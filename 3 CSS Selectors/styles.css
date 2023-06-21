@@ -1,0 +1,45 @@
+/* CSS Selectors */
+
+/* The CSS element Selector */
+p {
+  text-align: center;
+  color: red;
+}
+
+/* The CSS id Selector */
+#para1 {
+  text-align: center;
+  color: red;
+}
+
+/* The CSS class Selector */
+.center {
+  text-align: center;
+  color: red;
+}
+
+/* The CSS Universal Selector */
+* {
+  background-color: lightgray;
+}
+
+/* The CSS Grouping Selector */
+h1 {
+  text-align: left;
+  color: red;
+}
+h2 {
+  text-align: left;
+  color: red;
+}
+p {
+  text-align: left;
+  color: red;
+}
+
+h1,
+h2,
+p {
+  text-align: left;
+  color: red;
+}
