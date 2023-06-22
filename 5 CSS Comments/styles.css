@@ -1,0 +1,25 @@
+h1 {
+  border-color: chartreuse;
+  border-style: dashed;
+  padding: 0.5em 0.5em 0.5em;
+}
+
+.p1 {
+  border-color: tan;
+  border-style: double;
+  padding: 0.5em 0.5em 0.5em;
+}
+.p2 {
+  border: solid red 1em;
+}
+.p3 {
+  border-color: beige;
+  border-style: outset;
+  padding: 0.5em 0.5em 0.5em;
+}
+.p4 {
+  border-color: cornflowerblue;
+  border-style: dotted;
+  border-radius: 1em;
+  padding: 0.5em 0.5em 0.5em;
+}
