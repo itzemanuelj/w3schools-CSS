@@ -1,0 +1,8 @@
+/* HSL Value */
+p {
+  color: hsl(hue, saturation, lightness);
+}
+/* HSLA Value */
+p {
+  color: hsla(HUE, SATURATION, LIGHTNESS, ALPHA);
+}
